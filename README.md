@@ -14,9 +14,9 @@ The frequencies of notes in the C4 melodic minor scale in ascending order\
 391.9954\
 440.0\
 493.8833\
-523.2511
+523.2511\
 
-The frequencies of notes in the C4 melodic minor scale in descending order\
+\The frequencies of notes in the C4 melodic minor scale in descending order\
 523.2511\
 493.8833\
 440.0\
