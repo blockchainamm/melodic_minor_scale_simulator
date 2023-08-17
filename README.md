@@ -6,7 +6,7 @@ For examples the notes of user input sequence 'C4', 'G4', 'F4', 'A4', 'D4', 'C5'
 
 The frequencies of melodic minor scale of each user input note played is as follows,
 
-The frequencies of notes in the C4 melodic minor scale in ascending order\
+The frequencies in Hz of notes in the C4 melodic minor scale in ascending order\
 261.6256\
 293.6648\
 311.127\
